@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color:aqua;
+}
+h1{
+    color:brown !important;
+}
+p{
+    color:chocolate !important;
+}
+#hai1{
+    color: blueviolet;
+}
+.head{
+    color: dodgerblue;
+}
+#hai1 ,.hai3{
+    color: fuchsia;
+}
+.heading2{
+    color: greenyellow;
+}
+#heading2{
+    color: gold;
+}
