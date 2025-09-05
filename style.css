@@ -1,4 +1,4 @@
-*{
+/* *{
     background-color: black;
     color:aqua;
 }
@@ -22,4 +22,51 @@ p{
 }
 #heading2{
     color: gold;
+} */
+/* *{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;   it reduces the size of container
+}
+.container{
+     background-color: brown;
+     width:100px;
+     height:50px; */
+     /* padding-top: 10px;
+     padding-right: 20px;
+     padding-bottom: 30px;
+     padding-left: 40px; */
+     /* padding:20px 30px 40px ; */
+     /* border-top-width: 10px;
+     border-top-color: blueviolet;
+     border-top-style: dotted;
+
+     border-right-width: 5px;
+     border-top-color:coral;
+     border-right-style: dashed;
+
+     border-bottom-width: 5px;
+     border-top-color: blueviolet;
+     border-bottom-style: dotted;
+
+     border-left-width: 10px;
+     border-top-color: #3f3f3f
+     border-left-style: groove; */
+/* 2nd way */
+     /* border-color: black;
+     border-style:dashed;
+     border-width: 20px;
+3rd way */
+     /* border: 5px red groove; 
+1 way     
+     margin: 10px;
+     margin-top: 20px;
+     margin-bottom: 30px;
+     margin-left: 30px;
+     margin-right: 40px; */
+/* 2nd way */
+      /* margin: 10px 20px 32px 40px;
+      margin: 10px;     
+     */
+
 }
