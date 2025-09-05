@@ -1,0 +1,45 @@
+body{
+    background-color: blue;
+}
+.container{
+    background-color:aquamarine;
+       
+}
+#h1{
+    color:blanchedalmond;
+    width: 500px;
+    font-style: italic;
+    font: size 50px;
+    background-color: pink;
+    padding: 10px 10px;
+    border: 5px solid green; 
+    margin: 20px 20px 20px 20px;
+}
+.class1{
+    color:blanchedalmond;
+    border:5px solid;
+    margin: 20px 20px 20px 20px;
+    padding:10px;
+    width:500px;
+    height:50px;
+    background-color:  pink;
+}
+.image{
+    color:blanchedalmond;
+    border:5px solid;
+    margin: 20px;
+    padding:10px;
+    width:500px;
+    height:500px;
+    background-color: pink;
+
+}
+.item{
+    color:blanchedalmond;
+    border:5px solid;
+    margin: 20px;
+    padding:10px;
+    width:500px;
+    height:70px;
+    background-color: pink;
+}
