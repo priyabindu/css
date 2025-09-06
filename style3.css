@@ -3,7 +3,6 @@
     height: 500px;
     border: 2px solid;
     margin: 5px;
-    align-items: 
 }
 .item-1,.item-2,.item-3,.item-4{
     width: 200px;
@@ -17,9 +16,22 @@
     height: 200px;
     margin: 10px;
     display:inline;
+    border:2px;
 
 }
-.head,.paraclass{
+.head{
     text-align: center;
     padding: 0px;
+    color:blueviolet;
+}
+.paraclass{
+    text-align: center;
+    padding: 0px;
+
+}
+#title{
+    color:darkred;
+    font-style: italic;
+    font-size:large
+    
 }
